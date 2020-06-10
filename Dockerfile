@@ -6,7 +6,7 @@ LABEL homepage="https://github.com/peng4740/gh-action-php"
 LABEL maintainer="aoao <p@eng.cx>"
 
 LABEL com.github.actions.name="PHP Runner"
-LABEL com.github.actions.description="Executes a file with any PHP version."
+LABEL com.github.actions.description="Executes a file with PHP5 PHP7."
 LABEL com.github.actions.icon="globe"
 LABEL com.github.actions.color="purple"
 
