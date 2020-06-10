@@ -11,4 +11,5 @@ LABEL com.github.actions.icon="globe"
 LABEL com.github.actions.color="purple"
 
 RUN apk update && \
-      apk add php5-cli
+      apk add php5-cli && \
+      php=`php5`
